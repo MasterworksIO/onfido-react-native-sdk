@@ -1,5 +1,5 @@
 {
-  "name": "@onfido/react-native-sdk",
+  "name": "@albertoestarrona/onfido-react-native-sdk",
   "title": "React Native Onfido Sdk",
   "version": "5.4.0",
   "description": "Onfido React Native SDK",
@@ -41,8 +41,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/onfido/react-native-sdk.git",
-    "baseUrl": "https://github.com/onfido/react-native-sdk"
+    "url": "git+https://github.com/albertoestarrona/onfido-react-native-sdk.git",
+    "baseUrl": "https://github.com/albertoestarrona/onfido-react-native-sdk"
   },
   "keywords": [
     "react-native",
@@ -54,9 +54,7 @@
     "verification"
   ],
   "author": {
-    "name": "SDK Customer Support",
-    "email": "react-native-sdk@onfido.com",
-    "url": "https://github.com/onfido"
+    "name": "Alberto Estarrona - FORKED REPO"
   },
   "license": "MIT",
   "licenseFilename": "LICENSE",
