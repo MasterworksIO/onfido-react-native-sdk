@@ -5,11 +5,15 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 ## next-version
+## [5.4.1] - 2022-07-13
+
+### Changed:
+- Updated iOS version in podspec file
 
 ## [5.4.0] - 2022-06-22
 
 ### Changed:
-- Public: 
+- Public:
 - Public: Update underlying Onfido native SDK versions:
   - Android 12.2.0 (up from 11.5.0)
   - iOS 25.1.0 (up from 24.6.0)
